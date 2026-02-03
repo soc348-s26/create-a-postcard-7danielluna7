@@ -9,12 +9,12 @@ links:
   - label: Email
     url: "daniel.lunamiranda@lc.cuny.com"
 output:
-  postcards::solana
+  postcards::jolla-blue
 ---
  
 ## Bio
 
-I am a junior at lehman College and a mentor for Crear Futuros.
+I am a junior at lehman College studyng Computer Science and a mentor for Crear Futuros.
 
 ## Education
 
