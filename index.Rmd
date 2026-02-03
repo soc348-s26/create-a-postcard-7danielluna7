@@ -9,7 +9,7 @@ links:
   - label: Email
     url: "daniel.lunamiranda@lc.cuny.com"
 output:
-  postcards::trestles
+  postcards::solana
 ---
  
 ## Bio
