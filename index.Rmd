@@ -3,27 +3,28 @@ title: "My Postcard"
 image: "profile.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://linkedin.com/in/daniel-luna-miranda"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/7danielluna7"
   - label: Email
-    url: "mailto:email@example.com"
+    url: "daniel.lunamiranda@lc.cuny.com"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-This is a sample postcard site created with the postcards R package.
+I am a junior at lehman College and a mentor for Crear Futuros.
 
 ## Education
 
-**University Name** | City, State
+**Lehman Collge** | Bronx, NY
 
-B.S. in Subject | Year - Year
+B.S. Computer Science and Data Science and AI | 2023 - 2027
 
 ## Experience
+Reserch with Math departed at Lehman College 
 
-**Company Name** | Position | Year - Year
+**NFS Reserch ** | Resercher | Present
 
 Description of role and responsibilities.
